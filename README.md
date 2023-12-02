@@ -1,34 +1,14 @@
 # Task Manager
 
-A simple Task Manager web application built with Django and React.
-
-<img width="960" alt="image" src="https://github.com/Alka-2022/Task_Manager/assets/89827931/c6e22a32-2097-4f0a-8067-9a09b5fb09ff">
-- main page displaying tasks.
-
-
-## Overview
-
-Task Manager is a web application that allows users to manage their tasks and to-do lists. It provides a user-friendly interface for creating, editing, and deleting tasks, as well as marking tasks as completed or incompleted. The backend is built with Django, which provides RESTful API endpoints for interacting with tasks, while the frontend is built with React.
-
-
-<img width="960" alt="image" src="https://github.com/Alka-2022/Task_Manager/assets/89827931/8c1dff9b-5160-44c4-9e05-bd3fc5e641f9">
-- "Add Task" feature.
-
-
-<img width="960" alt="image" src="https://github.com/Alka-2022/Task_Manager/assets/89827931/c431abe7-164d-4d8c-835f-38aec1f9926e">
-- completed tasks.
-
-
-<img width="954" alt="image" src="https://github.com/Alka-2022/Task_Manager/assets/89827931/59b1ad8b-6982-47f6-969e-4a373ee255da">
-- incompleted tasks.
+Task Manager is a web application that allows users to manage their tasks and to-do lists. It provides a user-friendly interface for creating, editing, and deleting tasks and marking tasks as completed or incomplete. The backend is built with Django, which provides RESTful API endpoints for task interaction, while the front end is built with React.
 
 
 ## Features
 
 - Create, Read, Update, and Delete tasks.
-- Mark tasks as completed or incompleted.
-- Filter tasks by completion status (completed/incompleted).
-- User-friendly and responsive design.
+- Mark tasks as completed or incomplete.
+- Filter tasks by completion status (completed/incomplete).
+- user-friendly and responsive design.
 - Seamless integration of Django and React.
 
 ## Getting Started
@@ -83,13 +63,13 @@ Task Manager is a web application that allows users to manage their tasks and to
 
 ## Usage
 
-1. Access the web application by opening your web browser and navigating to `http://localhost:3000`.
+1. Access the web application by opening your browser and navigating to `http://localhost:3000`.
 
 2. Create a new task by clicking the "Add Task" button.
 
 3. Edit or delete tasks using the provided buttons.
 
-4. Mark tasks as completed or incompleted by clicking on them.
+4. Mark tasks as completed or incomplete by clicking on them.
 
 ## API Endpoints
 
@@ -113,7 +93,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your forked repository.
 5. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
