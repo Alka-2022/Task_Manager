@@ -13,8 +13,6 @@ Task Manager is a web application that allows users to manage their tasks and to
 
 ## Getting Started
 
-# Task_Manager
-
 
 ## Cloning the Repository
 
