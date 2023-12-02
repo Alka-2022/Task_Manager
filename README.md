@@ -1,8 +1,8 @@
-# Task Manager Web Application
+# Task Manager
 
 A simple Task Manager web application built with Django and React.
 
-<img width="960" alt="image" src="https://github.com/SuryaPratap2542/Task_Manager-Django_React/assets/89827931/c6e22a32-2097-4f0a-8067-9a09b5fb09ff">
+<img width="960" alt="image" src="https://github.com/Alka-2022/Task_Manager/assets/89827931/c6e22a32-2097-4f0a-8067-9a09b5fb09ff">
 - main page displaying tasks.
 
 
@@ -11,15 +11,15 @@ A simple Task Manager web application built with Django and React.
 Task Manager is a web application that allows users to manage their tasks and to-do lists. It provides a user-friendly interface for creating, editing, and deleting tasks, as well as marking tasks as completed or incompleted. The backend is built with Django, which provides RESTful API endpoints for interacting with tasks, while the frontend is built with React.
 
 
-<img width="960" alt="image" src="https://github.com/SuryaPratap2542/Task_Manager-Django_React/assets/89827931/8c1dff9b-5160-44c4-9e05-bd3fc5e641f9">
+<img width="960" alt="image" src="https://github.com/Alka-2022/Task_Manager/assets/89827931/8c1dff9b-5160-44c4-9e05-bd3fc5e641f9">
 - "Add Task" feature.
 
 
-<img width="960" alt="image" src="https://github.com/SuryaPratap2542/Task_Manager-Django_React/assets/89827931/c431abe7-164d-4d8c-835f-38aec1f9926e">
+<img width="960" alt="image" src="https://github.com/Alka-2022/Task_Manager/assets/89827931/c431abe7-164d-4d8c-835f-38aec1f9926e">
 - completed tasks.
 
 
-<img width="954" alt="image" src="https://github.com/SuryaPratap2542/Task_Manager-Django_React/assets/89827931/59b1ad8b-6982-47f6-969e-4a373ee255da">
+<img width="954" alt="image" src="https://github.com/Alka-2022/Task_Manager/assets/89827931/59b1ad8b-6982-47f6-969e-4a373ee255da">
 - incompleted tasks.
 
 
@@ -33,33 +33,52 @@ Task Manager is a web application that allows users to manage their tasks and to
 
 ## Getting Started
 
-1. **Clone the repository:**
+# Task_Manager
 
-   ```bash
-   git clone https://github.com/your-username/task-manager.git
-   cd task-manager
-   ```
 
-2. **Backend (Django):**
+## Cloning the Repository
 
-   ```bash
-   cd backend
-   pip install -r requirements.txt
-   python manage.py migrate
-   python manage.py runserver
-   ```
+1. Clone the repository:
 
-   The Django server should now be running at `http://localhost:8000`.
+    ```bash
+    git clone https://github.com/Alka-2022/Task_Manager.git
+    ```
 
-3. **Frontend (React):**
+2. Move into the directory where you have the project files:
 
-   ```bash
-   cd frontend
-   npm install
-   npm start
-   ```
+    ```bash
+    cd Task_Manager
+    ```
 
-   The React development server should now be running at `http://localhost:3000`.
+3. Backend(Django)
+
+    
+
+        ```bash
+        cd backend
+        pip install -r requirements.txt
+        python manage.py migrate
+        python manage.py runserver
+        ```
+
+    -   The Django server should now be running at:
+
+        ```bash
+        http://localhost:8000
+        ```
+
+4. Frontend(React):
+
+        ```bash
+        cd frontend
+        npm install
+        npm start
+        ```
+
+   The React development server should now be running at
+       `http://localhost:3000`
+
+
 
 
 ## Usage

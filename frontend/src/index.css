@@ -26,7 +26,7 @@ body {
 
 /* Add a background color to the main content */
 .main-content {
-  background-color:wheat; /* You can choose any color you like */
+  background-color:rgb(179, 221, 245); /* You can choose any color you like */
   padding: 20px; /* Add some padding to the content */
 }
 
